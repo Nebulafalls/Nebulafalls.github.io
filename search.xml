@@ -76,4 +76,24 @@
         <tag>截图工具</tag>
       </tags>
   </entry>
+  <entry>
+    <title>开源免费的右键菜单管理器</title>
+    <url>/2021/07/20/%E5%BC%80%E6%BA%90%E5%85%8D%E8%B4%B9%E7%9A%84%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%AE%A1%E7%90%86%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="lucy快速启动"><a href="#lucy快速启动" class="headerlink" title="lucy快速启动"></a>lucy快速启动</h1><h3 id="功能丰富，开源免费的右键菜单管理"><a href="#功能丰富，开源免费的右键菜单管理" class="headerlink" title="功能丰富，开源免费的右键菜单管理"></a>功能丰富，开源免费的右键菜单管理</h3><p><img src="https://github.com/BluePointLilac/ContextMenuManager/raw/master/Screenshot/Screenshot.png"></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/BluePointLilac/ContextMenuManager/releases">https://github.com/BluePointLilac/ContextMenuManager/releases</a></p>
+<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><a id="more"></a>
+<p>来自官方介绍：</p>
+<p>🖱️ 一个纯粹的Windows右键菜单管理程序</p>
+<p>启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE浏览器、WinX等右键菜单项目</p>
+<p>对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作</p>
+<p>对上述场景右键菜单自定义添加项目，自定义菜单命令</p>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>windows</tag>
+        <tag>效率工具</tag>
+      </tags>
+  </entry>
 </search>
