@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Wise AD Cleaner</title>
-    <url>/2021/01/28/wiseadcleaner/</url>
-    <content><![CDATA[<h1 id="Wise-AD-Cleaner介绍"><a href="#Wise-AD-Cleaner介绍" class="headerlink" title="Wise AD Cleaner介绍"></a>Wise AD Cleaner介绍</h1><p>非常不错的广告拦截清理工具，适合系统中出现大量广告的情况</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网：<a href="https://www.wisecleaner.com.cn/wise-ad-cleaner.html">https://www.wisecleaner.com.cn/wise-ad-cleaner.html</a></p>
-]]></content>
-      <categories>
-        <category>软件</category>
-      </categories>
-      <tags>
-        <tag>广告清理</tag>
-        <tag>windows</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Todesk:一款不错的国产远程协助软件</title>
     <url>/2021/01/28/Todesk/</url>
     <content><![CDATA[<h1 id="Todesk介绍"><a href="#Todesk介绍" class="headerlink" title="Todesk介绍"></a>Todesk介绍</h1><p>类似tv和向日葵，支持跨平台</p>
@@ -29,18 +15,20 @@
       </tags>
   </entry>
   <entry>
-    <title>火绒</title>
-    <url>/2021/01/28/%E7%81%AB%E7%BB%92/</url>
-    <content><![CDATA[<h1 id="火绒介绍"><a href="#火绒介绍" class="headerlink" title="火绒介绍"></a>火绒介绍</h1><p>这个不必多说，难得的国产良心软件，适合国情，有效拦截各种全家桶和广告</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网：<a href="https://www.huorong.cn/">https://www.huorong.cn/</a></p>
+    <title>Snipaste截图工具</title>
+    <url>/2021/02/02/Snipaste%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/</url>
+    <content><![CDATA[<h1 id="Snipaste介绍"><a href="#Snipaste介绍" class="headerlink" title="Snipaste介绍"></a>Snipaste介绍</h1><p>功能强大的截图工具，可以进行截图，贴图，标注，屏幕取色等多种功能</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://zh.snipaste.com/">https://zh.snipaste.com/</a></p>
+<a id="more"></a>
+<h2 id="使用详解"><a href="#使用详解" class="headerlink" title="使用详解"></a>使用详解</h2><p>解压后运行这个即可（绿色版）<br><img src="https://ae01.alicdn.com/kf/U5e5bf2ab80b642bd875960d441909a59R.jpg"><br>安装或使用绿色版解压运行<br>截图默认为 F1，贴图为 F3<br>大量使用技巧官方文档有写，这里步多赘述了<br><a href="https://docs.snipaste.com/zh-cn/advanced-tips">https://docs.snipaste.com/zh-cn/advanced-tips</a></p>
 ]]></content>
       <categories>
         <category>软件</category>
       </categories>
       <tags>
         <tag>windows</tag>
-        <tag>系统安全</tag>
-        <tag>系统工具</tag>
+        <tag>截图工具</tag>
+        <tag>效率工具</tag>
       </tags>
   </entry>
   <entry>
@@ -57,23 +45,6 @@
       <tags>
         <tag>windows</tag>
         <tag>效率工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Snipaste截图工具</title>
-    <url>/2021/02/02/Snipaste%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/</url>
-    <content><![CDATA[<h1 id="Snipaste介绍"><a href="#Snipaste介绍" class="headerlink" title="Snipaste介绍"></a>Snipaste介绍</h1><p>功能强大的截图工具，可以进行截图，贴图，标注，屏幕取色等多种功能</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://zh.snipaste.com/">https://zh.snipaste.com/</a></p>
-<a id="more"></a>
-<h2 id="使用详解"><a href="#使用详解" class="headerlink" title="使用详解"></a>使用详解</h2><p>解压后运行这个即可（绿色版）<br><img src="https://ae01.alicdn.com/kf/U5e5bf2ab80b642bd875960d441909a59R.jpg"><br>安装或使用绿色版解压运行<br>截图默认为 F1，贴图为 F3<br>大量使用技巧官方文档有写，这里步多赘述了<br><a href="https://docs.snipaste.com/zh-cn/advanced-tips">https://docs.snipaste.com/zh-cn/advanced-tips</a></p>
-]]></content>
-      <categories>
-        <category>软件</category>
-      </categories>
-      <tags>
-        <tag>windows</tag>
-        <tag>效率工具</tag>
-        <tag>截图工具</tag>
       </tags>
   </entry>
   <entry>
@@ -94,6 +65,35 @@
       <tags>
         <tag>windows</tag>
         <tag>效率工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wise AD Cleaner</title>
+    <url>/2021/01/28/wiseadcleaner/</url>
+    <content><![CDATA[<h1 id="Wise-AD-Cleaner介绍"><a href="#Wise-AD-Cleaner介绍" class="headerlink" title="Wise AD Cleaner介绍"></a>Wise AD Cleaner介绍</h1><p>非常不错的广告拦截清理工具，适合系统中出现大量广告的情况</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网：<a href="https://www.wisecleaner.com.cn/wise-ad-cleaner.html">https://www.wisecleaner.com.cn/wise-ad-cleaner.html</a></p>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>windows</tag>
+        <tag>广告清理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>火绒</title>
+    <url>/2021/01/28/%E7%81%AB%E7%BB%92/</url>
+    <content><![CDATA[<h1 id="火绒介绍"><a href="#火绒介绍" class="headerlink" title="火绒介绍"></a>火绒介绍</h1><p>这个不必多说，难得的国产良心软件，适合国情，有效拦截各种全家桶和广告</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网：<a href="https://www.huorong.cn/">https://www.huorong.cn/</a></p>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>windows</tag>
+        <tag>系统安全</tag>
+        <tag>系统工具</tag>
       </tags>
   </entry>
 </search>
