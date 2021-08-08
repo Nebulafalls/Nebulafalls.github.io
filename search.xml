@@ -139,4 +139,20 @@
         <tag>网站</tag>
       </tags>
   </entry>
+  <entry>
+    <title>N-link文件夹映射工具</title>
+    <url>/2021/08/08/N-link%E6%96%87%E4%BB%B6%E5%A4%B9%E6%98%A0%E5%B0%84%E5%B7%A5%E5%85%B7/</url>
+    <content><![CDATA[<h2 id="本程序由本站站长本人自行编写"><a href="#本程序由本站站长本人自行编写" class="headerlink" title="本程序由本站站长本人自行编写"></a>本程序由本站站长本人自行编写</h2><p>测试中，如有任何问题找我反馈</p>
+<p>实际上就是一个自动执行移动文件夹和mklink命令的程序</p>
+<h2 id="使用教程："><a href="#使用教程：" class="headerlink" title="使用教程："></a>使用教程：</h2><a id="more"></a>
+<p>原文件夹：需要移动的文件夹路径（如C:\Program Files\xxx)</p>
+<p>目标文件夹：你希望把源文件夹移动到哪里（如d:\xxx）,必须为空文件夹或不存在的文件夹</p>
+<p>设置完毕点击确定，如果没报错的话会先卡一会接着弹出完成提示</p>
+<p>卡顿时间取决于电脑配置和移动的文件夹有多大</p>
+<p>杀毒软件如果报病毒请设置允许</p>
+<p>本程序完全绿色无毒（毕竟我自己写的）</p>
+<p>下载地址：<a href="https://wwa.lanzoui.com/i7R2ysd770f">https://wwa.lanzoui.com/i7R2ysd770f</a></p>
+<p>如果运行不了安装这个：<a href="https://wwa.lanzoui.com/i5evSsd79if">https://wwa.lanzoui.com/i5evSsd79if</a></p>
+]]></content>
+  </entry>
 </search>
